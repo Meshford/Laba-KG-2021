@@ -1,0 +1,36 @@
+﻿  MyForm.cpp
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\Filters.h(61,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\Filters.h(62,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\GrayScaleFilter.h(9,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\GrayScaleFilter.h(10,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\GrayScaleFilter.h(10,51): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\GrayScaleFilter.h(10,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\BrightnessFilter.h(10,59): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\BrightnessFilter.h(11,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\BrightnessFilter.h(12,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MaximumFilter.h(32,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\SepiaFilter.h(9,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\SepiaFilter.h(11,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\SepiaFilter.h(12,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\SepiaFilter.h(13,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\GrayWorldFilter.h(24,4): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\GrayWorldFilter.h(23,4): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\GrayWorldFilter.h(22,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\GrayWorldFilter.h(30,59): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\GrayWorldFilter.h(31,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\GrayWorldFilter.h(32,24): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm1.h(217,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm1.h(218,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm1.h(219,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm1.h(220,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm1.h(221,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm1.h(222,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm1.h(223,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm1.h(224,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm1.h(225,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm.h(759,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm.h(760,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm.h(822,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\MyForm.h(823,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  BlurFilter.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Image_Processing.vcxproj -> C:\Users\Никита\Desktop\Лаба 1 КГ 2021\x64\Debug\Image_Processing.exe

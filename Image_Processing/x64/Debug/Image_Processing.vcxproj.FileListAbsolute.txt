@@ -1,0 +1,12 @@
+C:\Users\Никита\Desktop\image_processing-main\Image_Processing\x64\Debug\Image_Processing.vcxprojAssemblyReference.cache
+C:\Users\Никита\Desktop\image_processing-main\Image_Processing\x64\Debug\ImageProcessing.MyForm.resources
+C:\Users\Никита\Desktop\image_processing-main\Image_Processing\x64\Debug\ImageProcessing.MyForm1.resources
+C:\Users\Никита\Desktop\image_processing-main\Image_Processing\x64\Debug\Image_Processing.vcxproj.GenerateResource.cache
+C:\Users\Никита\Desktop\лаба кг\Image_Processing\x64\Debug\Image_Processing.vcxprojAssemblyReference.cache
+C:\Users\Никита\Desktop\лаба кг\Image_Processing\x64\Debug\ImageProcessing.MyForm.resources
+C:\Users\Никита\Desktop\лаба кг\Image_Processing\x64\Debug\ImageProcessing.MyForm1.resources
+C:\Users\Никита\Desktop\лаба кг\Image_Processing\x64\Debug\Image_Processing.vcxproj.GenerateResource.cache
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\x64\Debug\Image_Processing.vcxprojAssemblyReference.cache
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\x64\Debug\ImageProcessing.MyForm.resources
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\x64\Debug\ImageProcessing.MyForm1.resources
+C:\Users\Никита\Desktop\Лаба 1 КГ 2021\Image_Processing\x64\Debug\Image_Processing.vcxproj.GenerateResource.cache
